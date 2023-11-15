@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.history-table th{
+    padding:10px 5px;
+}
+
+.history-table td{
+    padding:5px 5px;
+}
